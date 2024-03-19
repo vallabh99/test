@@ -1,4 +1,4 @@
-# ReadMe File
+# README File
 
 Using ReadMe syntax.
 <br>
